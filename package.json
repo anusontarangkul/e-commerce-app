@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "Creating an e-commerce app on React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusontarangkul/e-commerce-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anusontarangkul/e-commerce-app/issues"
+  },
+  "homepage": "https://github.com/anusontarangkul/e-commerce-app#readme",
+  "dependencies": {
+    "firebase": "^8.3.1"
+  }
+}
